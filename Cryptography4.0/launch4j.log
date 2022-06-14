@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	A:\Cryptography1.0\EnCryptDeCrypt.exe --l4j-debug
+WOW64:		yes
+Working dir:	A:\Cryptography1.0\.
+Java min ver:	1.004.000
+Java max ver:	
+Bundled JRE:	jre
+Check launcher:	A:\Cryptography1.0\jre\bin\javaw.exe (OK)
+Launcher:	A:\Cryptography1.0\jre\bin\javaw.exe
+Launcher args:	-jar "A:\Cryptography1.0\EnCryptDeCrypt.exe"
+Args length:	44/32768 chars
+Exit code:	0
